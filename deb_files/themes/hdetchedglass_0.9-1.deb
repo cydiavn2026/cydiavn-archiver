@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://cydia.vn/xmlrpc.php">
+<title>Page not found &#8211; Cydia.vn</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cydia.vn &raquo; Feed" href="https://cydia.vn/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cydia.vn &raquo; Comments Feed" href="https://cydia.vn/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cydia.vn\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.7"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='point-style-css'  href='https://cydia.vn/wp-content/themes/point/style.css?ver=4.9.7' type='text/css' media='all' />
+<style id='point-style-inline-css' type='text/css'>
+
+        a:hover, .menu .current-menu-item > a, .menu .current-menu-item, .current-menu-ancestor > a.sf-with-ul, .current-menu-ancestor, footer .textwidget a, .single_post a, #commentform a, .copyrights a:hover, a, footer .widget li a:hover, .menu > li:hover > a, .single_post .post-info a, .post-info a, .readMore a, .reply a, .fn a, .carousel a:hover, .single_post .related-posts a:hover, .sidebar.c-4-12 .textwidget a, footer .textwidget a, .sidebar.c-4-12 a:hover, .title a:hover, .trending-articles li a:hover { color: #38b7ee; }
+        .nav-previous a, .nav-next a, .sub-menu, #commentform input#submit, .tagcloud a, #tabber ul.tabs li a.selected, .featured-cat, .mts-subscribe input[type='submit'], .pagination a, .widget .wpt_widget_content #tags-tab-content ul li a, .latestPost-review-wrapper, .pagination .dots, .primary-navigation #wpmm-megamenu .wpmm-posts .wpmm-pagination a, #wpmm-megamenu .review-total-only { background: #38b7ee; color: #fff; } .header-button { background: #38B7EE; } #logo a { color: ##555; }
+			.embed{position:relative;padding-bottom:56.5%;}
+@media(max-width: 960px){
+.main-container{
+max-width: 100%!important;
+}
+.bottomad{width:100%;}
+.main-container #page{width:94%;}
+.single_post .fb_iframe_widget {
+    margin-bottom: 18px;
+    overflow: hidden;
+    display:block;
+}
+
+.single_post .post-single-content{
+font-size:16px;
+text-align:left;
+}
+}
+.adnwMRectRoot{margin-left:auto!important;margin-right:auto!important;}
+.fbDisplayType{max-width:300px!important;}
+@media screen and (max-width: 481px){
+.single_post .post-single-content .title {
+    font-size: 20px!important;
+}
+.single_post .post-single-content .title a {
+    font-size: 14px!important;
+}
+}
+</style>
+<link rel='stylesheet' id='theme-slug-fonts-css'  href='//fonts.googleapis.com/css?family=Droid+Sans%3A400%2C700' type='text/css' media='all' />
+<script type='text/javascript' src='https://cydia.vn/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://cydia.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://cydia.vn/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cydia.vn/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cydia.vn/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.7" />
+<meta property="fb:pages" content="1542888312605367" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60904939-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7093496500330268",
+    enable_page_level_ads: true
+  });
+</script><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: ##e7e5e6; }
+</style>
+<link rel="icon" href="https://cydia.vn/wp-content/uploads/2016/11/Logo_kobo-iPhone.png" sizes="32x32" />
+<link rel="icon" href="https://cydia.vn/wp-content/uploads/2016/11/Logo_kobo-iPhone.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://cydia.vn/wp-content/uploads/2016/11/Logo_kobo-iPhone.png" />
+<meta name="msapplication-TileImage" content="https://cydia.vn/wp-content/uploads/2016/11/Logo_kobo-iPhone.png" />
+</head>
+
+<body id="blog" class="error404 custom-background">
+<div class="main-container">
+
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="site-branding">
+												<h1 id="logo" class="image-logo" itemprop="headline">
+						<a href="https://cydia.vn"><img src="https://cydia.vn/wp-content/uploads/2016/11/Cydia.vn-Logo.png" alt="Cydia.vn"></a>
+					</h1><!-- END #logo -->
+										
+			<a href="#" id="pull" class="toggle-mobile-menu">Menu</a>
+			<div class="primary-navigation">
+				<nav id="navigation" class="mobile-menu-wrapper" role="navigation">
+											<ul id="menu-home" class="menu clearfix"><li id="menu-item-5742" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a title="Hướng dẫn jailbreak iOS 9.2 &#8211; 9.3.3 &#8211; 10.2">Jailbreak<br /><span class="sub"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-7684" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="https://cydia.vn/huong-dan-jailbreak-ios-10-2-voi-yalu102/">Hướng dẫn jailbreak iOS 10.2 với Yalu102<br /><span class="sub"></span></a></li>
+	<li id="menu-item-7685" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="https://cydia.vn/jailbreak-apple-tv-4-voi-libertv/">Hướng dẫn jailbreak Apple TV 4 với liberTV<br /><span class="sub"></span></a></li>
+	<li id="menu-item-7686" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="https://cydia.vn/huong-dan-jailbreak-ios-9-x-tren-cac-thiet-bi-ios-32bit/">Hướng dẫn jailbreak iOS 9.x trên các thiết bị iOS 32bit<br /><span class="sub"></span></a></li>
+	<li id="menu-item-5754" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="https://cydia.vn/huong-da%cc%83n-jailbreak-ios-9-3-3-bang-cong-cu%cc%a3-pangu/">Hướng dẫn jailbreak iOS 9.3.3 bằng công cụ Pangu<br /><span class="sub"></span></a></li>
+	<li id="menu-item-5741" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="https://cydia.vn/huong-dan-jailbreak-ios-9-2-9-3-3-bang-cong-cu-25pp-china-version-chip-64-bit/">Hướng dẫn Jailbreak iOS 9.2-9.3.3 bằng công cụ 25PP (China version – Chip 64-bit only)<br /><span class="sub"></span></a></li>
+</ul>
+</li>
+<li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a>Hướng Dẫn<br /><span class="sub"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Hướng dẫn Add source Cydia.vn" href="https://cydia.vn/cach-add-source-cydia-vn/">Cách Add Source Cydia.vn<br /><span class="sub"></span></a></li>
+	<li id="menu-item-167" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Hướng dẫn cài đặt và gỡ bỏ ứng dụng từ Cydia" href="https://cydia.vn/huong-dan-cai-dat-va-go-bo-ung-dung-tu-cydia/">Hướng dẫn cài đặt, gỡ bỏ ứng dụng từ Cydia<br /><span class="sub"></span></a></li>
+	<li id="menu-item-652" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cydia.vn/huong-dan-tao-tai-khoan-itunes-mien-phi-truc-tiep-tren-iphone/">Hướng dẫn tạo tài khoản iTunes miễn phí trực tiếp trên iPhone!<br /><span class="sub"></span></a></li>
+</ul>
+</li>
+<li id="menu-item-1117" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cydia.vn/ios-downloads/">Downloads<br /><span class="sub"></span></a></li>
+<li id="menu-item-4010" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cydia.vn/apple-signing-firmware-status/">TSS Status<br /><span class="sub"></span></a></li>
+</ul>									</nav><!-- #navigation -->
+			</div><!-- .primary-navigation -->
+		</div><!-- .site-branding -->
+
+	</header><!-- #masthead -->
+
+		
+		
+<div id="page" class="single">
+	<div class="content">
+		<article class="article">
+			<div id="content_box" >
+				<div class="single_post">
+					<header>
+						<div class="title">
+							<h1>Error 404 Not Found</h1>
+						</div>
+					</header>
+					<div class="post-content">
+						<p>Oops! We couldn't find this Page.<br/>
+						Please check your URL or use the search form below.</p>
+						<form method="get" id="searchform" class="search-form" action="https://cydia.vn" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="Search the site" onblur="if (this.value == '') {this.value = 'Search the site';}" onfocus="if (this.value == 'Search the site') {this.value = '';}" >
+		<button id="search-image" class="sbutton" type="submit" value="">
+    		<i class="point-icon icon-search"></i>
+    	</button>
+		<!-- <input id="search-image" class="sbutton" type="submit" style="border:0; vertical-align: top;" value=""> -->
+	</fieldset>
+</form>						<p class="clear"></p>
+					</div><!--.post-content--><!--#error404 .post-->
+				</div><!--#content-->
+			</div><!--#content_box-->
+		</article>
+		
+<aside class="sidebar c-4-12">
+	<div id="sidebars" class="sidebar">
+		<div class="sidebar_list">
+			<aside id="search-3" class="widget widget_search"><form method="get" id="searchform" class="search-form" action="https://cydia.vn" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="Search the site" onblur="if (this.value == '') {this.value = 'Search the site';}" onfocus="if (this.value == 'Search the site') {this.value = '';}" >
+		<button id="search-image" class="sbutton" type="submit" value="">
+    		<i class="point-icon icon-search"></i>
+    	</button>
+		<!-- <input id="search-image" class="sbutton" type="submit" style="border:0; vertical-align: top;" value=""> -->
+	</fieldset>
+</form></aside><aside id="categories-4" class="widget widget_categories"><h3 class="widget-title">Danh Mục</h3>		<ul>
+	<li class="cat-item cat-item-2331"><a href="https://cydia.vn/category/bez-rubriki/" >! Без рубрики</a>
+</li>
+	<li class="cat-item cat-item-2330"><a href="https://cydia.vn/category/1/" >1</a>
+</li>
+	<li class="cat-item cat-item-2395"><a href="https://cydia.vn/category/10/" >10</a>
+</li>
+	<li class="cat-item cat-item-2396"><a href="https://cydia.vn/category/11/" >11</a>
+</li>
+	<li class="cat-item cat-item-2356"><a href="https://cydia.vn/category/12/" >12</a>
+</li>
+	<li class="cat-item cat-item-2399"><a href="https://cydia.vn/category/13/" >13</a>
+</li>
+	<li class="cat-item cat-item-2400"><a href="https://cydia.vn/category/14/" >14</a>
+</li>
+	<li class="cat-item cat-item-2333"><a href="https://cydia.vn/category/15/" >15</a>
+</li>
+	<li class="cat-item cat-item-2402"><a href="https://cydia.vn/category/16/" >16</a>
+</li>
+	<li class="cat-item cat-item-2411"><a href="https://cydia.vn/category/05-02/17/" >17</a>
+</li>
+	<li class="cat-item cat-item-2412"><a href="https://cydia.vn/category/05-02/18/" >18</a>
+</li>
+	<li class="cat-item cat-item-2413"><a href="https://cydia.vn/category/05-02/19/" >19</a>
+</li>
+	<li class="cat-item cat-item-2405"><a href="https://cydia.vn/category/1xbet/" >1xBet</a>
+</li>
+	<li class="cat-item cat-item-2334"><a href="https://cydia.vn/category/2/" >2</a>
+</li>
+	<li class="cat-item cat-item-2414"><a href="https://cydia.vn/category/05-02/20/" >20</a>
+</li>
+	<li class="cat-item cat-item-2342"><a href="https://cydia.vn/category/208-casino-en-ligne-fiable/" >208 &#8211; casino en ligne fiable</a>
+</li>
+	<li class="cat-item cat-item-2415"><a href="https://cydia.vn/category/05-02/21/" >21</a>
+</li>
+	<li class="cat-item cat-item-2373"><a href="https://cydia.vn/category/210-meilleurs-casino-en-ligne/" >210- meilleurs casino en ligne</a>
+</li>
+	<li class="cat-item cat-item-2387"><a href="https://cydia.vn/category/213casino-en-ligne-fiable/" >213casino en ligne fiable</a>
+</li>
+	<li class="cat-item cat-item-2389"><a href="https://cydia.vn/category/214meilleur-casino-en-ligne-france/" >214meilleur casino en ligne france</a>
+</li>
+	<li class="cat-item cat-item-2349"><a href="https://cydia.vn/category/217/" >217</a>
+</li>
+	<li class="cat-item cat-item-2474"><a href="https://cydia.vn/category/219-casino-en-ligne-fiable/" >219 casino en ligne fiable</a>
+</li>
+	<li class="cat-item cat-item-2416"><a href="https://cydia.vn/category/05-02/22/" >22</a>
+</li>
+	<li class="cat-item cat-item-2380"><a href="https://cydia.vn/category/226-casino-en-ligne-fiable/" >226 casino en ligne fiable</a>
+</li>
+	<li class="cat-item cat-item-2417"><a href="https://cydia.vn/category/05-02/23/" >23</a>
+</li>
+	<li class="cat-item cat-item-2427"><a href="https://cydia.vn/category/24/" >24</a>
+</li>
+	<li class="cat-item cat-item-2358"><a href="https://cydia.vn/category/241-vegasino-casino/" >241-vegasino casino</a>
+</li>
+	<li class="cat-item cat-item-2428"><a href="https://cydia.vn/category/25/" >25</a>
+</li>
+	<li class="cat-item cat-item-2430"><a href="https://cydia.vn/category/26/" >26</a>
+</li>
+	<li class="cat-item cat-item-2431"><a href="https://cydia.vn/category/27/" >27</a>
+</li>
+	<li class="cat-item cat-item-2354"><a href="https://cydia.vn/category/272-julius-casino/" >272 julius casino</a>
+</li>
+	<li class="cat-item cat-item-2361"><a href="https://cydia.vn/category/289-lucky31-casino/" >289 lucky31 casino</a>
+</li>
+	<li class="cat-item cat-item-2432"><a href="https://cydia.vn/category/29/" >29</a>
+</li>
+	<li class="cat-item cat-item-2332"><a href="https://cydia.vn/category/3/" >3</a>
+</li>
+	<li class="cat-item cat-item-2372"><a href="https://cydia.vn/category/309-spinsy-casino/" >309 spinsy casino</a>
+</li>
+	<li class="cat-item cat-item-2382"><a href="https://cydia.vn/category/31862-05-02/" >31862 05.02</a>
+</li>
+	<li class="cat-item cat-item-2383"><a href="https://cydia.vn/category/31867-05-02/" >31867 05.02</a>
+</li>
+	<li class="cat-item cat-item-2398"><a href="https://cydia.vn/category/321-malina-casino/" >321-malina casino</a>
+</li>
+	<li class="cat-item cat-item-2404"><a href="https://cydia.vn/category/322/" >322</a>
+</li>
+	<li class="cat-item cat-item-2429"><a href="https://cydia.vn/category/322-malina-casino/" >322-malina casino</a>
+</li>
+	<li class="cat-item cat-item-2450"><a href="https://cydia.vn/category/333-luckera-casino/" >333-luckera casino</a>
+</li>
+	<li class="cat-item cat-item-2433"><a href="https://cydia.vn/category/378-luckera-casino/" >378 luckera casino</a>
+</li>
+	<li class="cat-item cat-item-2458"><a href="https://cydia.vn/category/386-only-spins-avis/" >386 only spins avis</a>
+</li>
+	<li class="cat-item cat-item-2454"><a href="https://cydia.vn/category/387-only-spins-en-ligne/" >387 only spins en ligne</a>
+</li>
+	<li class="cat-item cat-item-2475"><a href="https://cydia.vn/category/398-mafia-casino/" >398 mafia casino</a>
+</li>
+	<li class="cat-item cat-item-2335"><a href="https://cydia.vn/category/4/" >4</a>
+</li>
+	<li class="cat-item cat-item-2328"><a href="https://cydia.vn/category/5/" >5</a>
+</li>
+	<li class="cat-item cat-item-2390"><a href="https://cydia.vn/category/6/" >6</a>
+</li>
+	<li class="cat-item cat-item-2376"><a href="https://cydia.vn/category/7/" >7</a>
+</li>
+	<li class="cat-item cat-item-2392"><a href="https://cydia.vn/category/8/" >8</a>
+</li>
+	<li class="cat-item cat-item-2393"><a href="https://cydia.vn/category/9/" >9</a>
+</li>
+	<li class="cat-item cat-item-2365"><a href="https://cydia.vn/category/a16z-generative-ai-2/" >a16z generative ai</a>
+</li>
+	<li class="cat-item cat-item-2509"><a href="https://cydia.vn/category/adobe-generative-ai-1-2/" >adobe generative ai 1</a>
+</li>
+	<li class="cat-item cat-item-2346"><a href="https://cydia.vn/category/ami-pizza/" >ami-pizza</a>
+</li>
+	<li class="cat-item cat-item-2336"><a href="https://cydia.vn/category/apk/" >APK</a>
+</li>
+	<li class="cat-item cat-item-47"><a href="https://cydia.vn/category/apple-event/" >Apple Event</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://cydia.vn/category/apps/" >Apps</a>
+</li>
+	<li class="cat-item cat-item-2470"><a href="https://cydia.vn/category/bahis/" >bahis</a>
+</li>
+	<li class="cat-item cat-item-2436"><a href="https://cydia.vn/category/bahiscom/" >Bahiscom</a>
+</li>
+	<li class="cat-item cat-item-2479"><a href="https://cydia.vn/category/betlabel-3/" >Betlabel εφαρμογή</a>
+</li>
+	<li class="cat-item cat-item-2453"><a href="https://cydia.vn/category/blog/" >Blog</a>
+</li>
+	<li class="cat-item cat-item-2366"><a href="https://cydia.vn/category/bookkeeping/" >Bookkeeping</a>
+</li>
+	<li class="cat-item cat-item-2406"><a href="https://cydia.vn/category/boujeerestaurantandbar-co-uk-2/" >boujeerestaurantandbar.co.uk</a>
+</li>
+	<li class="cat-item cat-item-2490"><a href="https://cydia.vn/category/canli-casino/" >canli casino</a>
+</li>
+	<li class="cat-item cat-item-2381"><a href="https://cydia.vn/category/casino/" >Casino</a>
+</li>
+	<li class="cat-item cat-item-2532"><a href="https://cydia.vn/category/casino-zimpler/" >casino zimpler</a>
+</li>
+	<li class="cat-item cat-item-2502"><a href="https://cydia.vn/category/casino1/" >casino1</a>
+</li>
+	<li class="cat-item cat-item-2499"><a href="https://cydia.vn/category/casino2/" >casino2</a>
+</li>
+	<li class="cat-item cat-item-2497"><a href="https://cydia.vn/category/casino3/" >casino3</a>
+</li>
+	<li class="cat-item cat-item-2504"><a href="https://cydia.vn/category/casino4/" >casino4</a>
+</li>
+	<li class="cat-item cat-item-2447"><a href="https://cydia.vn/category/ch/" >CH</a>
+</li>
+	<li class="cat-item cat-item-2449"><a href="https://cydia.vn/category/cib/" >CIB</a>
+</li>
+	<li class="cat-item cat-item-2340"><a href="https://cydia.vn/category/computers-games/" title="Computers, Games">Computers, Games</a>
+</li>
+	<li class="cat-item cat-item-280"><a href="https://cydia.vn/category/cydia-tweaks/" title="cydia tweaks ios 9, cydia tweaks ios 8, cydia tweaks ios 7, cydia tweaks 2014, cydia tweaks 2015, cydia tweaks 2016, jailbreak ios 9, jailbreak ios 10">Cydia Tweaks</a>
+</li>
+	<li class="cat-item cat-item-2510"><a href="https://cydia.vn/category/eboy-store-en/" >eboy.store (en)</a>
+</li>
+	<li class="cat-item cat-item-2448"><a href="https://cydia.vn/category/ec/" >EC</a>
+</li>
+	<li class="cat-item cat-item-2419"><a href="https://cydia.vn/category/eliteenergyconsulting-com/" >eliteenergyconsulting.com</a>
+</li>
+	<li class="cat-item cat-item-722"><a href="https://cydia.vn/category/featured/" title="Featured posts">Featured</a>
+</li>
+	<li class="cat-item cat-item-2473"><a href="https://cydia.vn/category/fintech/" >FinTech</a>
+</li>
+	<li class="cat-item cat-item-2513"><a href="https://cydia.vn/category/food-beverage-gourmet/" title="Food &amp; Beverage, Gourmet">Food &amp; Beverage, Gourmet</a>
+</li>
+	<li class="cat-item cat-item-2357"><a href="https://cydia.vn/category/forex-news/" >Forex News</a>
+</li>
+	<li class="cat-item cat-item-2457"><a href="https://cydia.vn/category/forex-reviews/" >Forex Reviews</a>
+</li>
+	<li class="cat-item cat-item-2350"><a href="https://cydia.vn/category/grandpashabet/" >Grandpashabet</a>
+</li>
+	<li class="cat-item cat-item-2530"><a href="https://cydia.vn/category/greenchillibangor-co-uk/" >greenchillibangor.co.uk</a>
+</li>
+	<li class="cat-item cat-item-2496"><a href="https://cydia.vn/category/guide/" >guide</a>
+</li>
+	<li class="cat-item cat-item-2494"><a href="https://cydia.vn/category/home-family-holidays/" title="Home &amp; Family, Holidays">Home &amp; Family, Holidays</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://cydia.vn/category/learn/" >Hướng Dẫn</a>
+</li>
+	<li class="cat-item cat-item-316"><a href="https://cydia.vn/category/huong-dan-jailbreak-ios/" title="Hướng dẫn jailbreak, hướng dẫn jailbreak ios 9.1, hướng dẫn jailbreak ios 9.2, hướng dẫn jailbreak ios 9, hướng dẫn jailbreak ios 8.4, hướng dẫn jailbreak ios 8.4.1, hướng dẫn jailbreak ios 8.3, hướng dẫn jailbreak ios 9.0.1, hướng dẫn jailbreak ios 7.1.2, hướng dẫn jailbreak iphone, hướng dẫn jailbreak iphone 3gs, hướng dẫn jailbreak iphone 4, hướng dẫn jailbreak iphone 5, hướng dẫn jailbreak iphone 5s, hướng dẫn jailbreak iphone 6, hướng dẫn jailbreak iphone 6s, hướng dẫn jailbreak iphone 5c">Hướng dẫn Jailbreak</a>
+</li>
+	<li class="cat-item cat-item-2503"><a href="https://cydia.vn/category/igaming/" >IGAMING</a>
+</li>
+	<li class="cat-item cat-item-2505"><a href="https://cydia.vn/category/internet-business-security/" title="Internet Business, Security">Internet Business, Security</a>
+</li>
+	<li class="cat-item cat-item-2522"><a href="https://cydia.vn/category/jan-columbiapromoproducts-com/" >jan_columbiapromoproducts.com</a>
+</li>
+	<li class="cat-item cat-item-2523"><a href="https://cydia.vn/category/jan-hbgstampede/" >jan_hbgstampede</a>
+</li>
+	<li class="cat-item cat-item-2408"><a href="https://cydia.vn/category/jan3/" >jan3</a>
+</li>
+	<li class="cat-item cat-item-2521"><a href="https://cydia.vn/category/jan4/" >jan4</a>
+</li>
+	<li class="cat-item cat-item-2481"><a href="https://cydia.vn/category/jan5/" >jan5</a>
+</li>
+	<li class="cat-item cat-item-2439"><a href="https://cydia.vn/category/kerstin-koeditz-de/" >kerstin-koeditz.de</a>
+</li>
+	<li class="cat-item cat-item-2472"><a href="https://cydia.vn/category/khelibet/" >khelibet</a>
+</li>
+	<li class="cat-item cat-item-2466"><a href="https://cydia.vn/category/levant-casino-2/" >Levant Casino (2)</a>
+</li>
+	<li class="cat-item cat-item-2391"><a href="https://cydia.vn/category/melbet/" >Melbet</a>
+</li>
+	<li class="cat-item cat-item-2486"><a href="https://cydia.vn/category/meritking/" >meritking</a>
+</li>
+	<li class="cat-item cat-item-2531"><a href="https://cydia.vn/category/millionaria-casino/" >Millionaria Casino</a>
+</li>
+	<li class="cat-item cat-item-2339"><a href="https://cydia.vn/category/mostbet/" >Mostbet</a>
+</li>
+	<li class="cat-item cat-item-2338"><a href="https://cydia.vn/category/mostbet-dol/" >Mostbet dol</a>
+</li>
+	<li class="cat-item cat-item-2487"><a href="https://cydia.vn/category/n/" >N</a>
+</li>
+	<li class="cat-item cat-item-2369"><a href="https://cydia.vn/category/new-2/" >NEW</a>
+</li>
+	<li class="cat-item cat-item-283"><a href="https://cydia.vn/category/tin-tuc/" >News</a>
+</li>
+	<li class="cat-item cat-item-2468"><a href="https://cydia.vn/category/nov3/" >nov3</a>
+</li>
+	<li class="cat-item cat-item-2434"><a href="https://cydia.vn/category/om/" >OM</a>
+</li>
+	<li class="cat-item cat-item-2445"><a href="https://cydia.vn/category/om-cc/" >OM cc</a>
+</li>
+	<li class="cat-item cat-item-2407"><a href="https://cydia.vn/category/operaforall-co-uk/" >operaforall.co.uk</a>
+</li>
+	<li class="cat-item cat-item-2418"><a href="https://cydia.vn/category/p50-roll-doradoslots-pl-3000/" >P50_roll-doradoslots.pl_3000.</a>
+</li>
+	<li class="cat-item cat-item-2507"><a href="https://cydia.vn/category/paysafecard-casinos/" >paysafecard casinos</a>
+</li>
+	<li class="cat-item cat-item-2409"><a href="https://cydia.vn/category/pb-diamondautotulsa-com/" >pb_diamondautotulsa.com</a>
+</li>
+	<li class="cat-item cat-item-2337"><a href="https://cydia.vn/category/post/" >Post</a>
+</li>
+	<li class="cat-item cat-item-2360"><a href="https://cydia.vn/category/pt/" >PT</a>
+</li>
+	<li class="cat-item cat-item-2329"><a href="https://cydia.vn/category/public/" >Public</a>
+</li>
+	<li class="cat-item cat-item-2488"><a href="https://cydia.vn/category/ready-text-2/" >ready text</a>
+</li>
+	<li class="cat-item cat-item-2460"><a href="https://cydia.vn/category/ready-text/" >ready_text</a>
+</li>
+	<li class="cat-item cat-item-2511"><a href="https://cydia.vn/category/reference-education-sociology/" title="Reference &amp; Education, Sociology">Reference &amp; Education, Sociology</a>
+</li>
+	<li class="cat-item cat-item-133"><a href="https://cydia.vn/category/review-idevices/" >Reviews</a>
+</li>
+	<li class="cat-item cat-item-2377"><a href="https://cydia.vn/category/safe-online-casinos/" >safe online casinos</a>
+</li>
+	<li class="cat-item cat-item-2441"><a href="https://cydia.vn/category/sahabet/" >Sahabet</a>
+</li>
+	<li class="cat-item cat-item-2524"><a href="https://cydia.vn/category/sg-casino-5/" >SG Casino κωδικός</a>
+</li>
+	<li class="cat-item cat-item-2517"><a href="https://cydia.vn/category/showbet-8400/" >showbet 8400</a>
+</li>
+	<li class="cat-item cat-item-2435"><a href="https://cydia.vn/category/sober-living/" >Sober living</a>
+</li>
+	<li class="cat-item cat-item-2461"><a href="https://cydia.vn/category/superbet-bonus/" >Superbet bonus</a>
+</li>
+	<li class="cat-item cat-item-2424"><a href="https://cydia.vn/category/test/" >test</a>
+</li>
+	<li class="cat-item cat-item-2444"><a href="https://cydia.vn/category/thelondontriathlon-co-uk-2/" >thelondontriathlon.co.uk</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="https://cydia.vn/category/themes/" >Themes</a>
+</li>
+	<li class="cat-item cat-item-2327"><a href="https://cydia.vn/category/tin-tuc-jailbreak/" >Tin Tức Jailbreak</a>
+</li>
+	<li class="cat-item cat-item-161"><a href="https://cydia.vn/category/co-ban-meo-nho/" >Tips &amp; Tricks</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://cydia.vn/category/tweaks/" >Tweaks</a>
+</li>
+	<li class="cat-item cat-item-2379"><a href="https://cydia.vn/category/uncategorized/" >uncategorized</a>
+</li>
+	<li class="cat-item cat-item-2464"><a href="https://cydia.vn/category/vd-casino-1/" >VD Casino (1)</a>
+</li>
+	<li class="cat-item cat-item-2515"><a href="https://cydia.vn/category/visionuk-org-uk-3/" >visionuk.org.uk</a>
+</li>
+	<li class="cat-item cat-item-2386"><a href="https://cydia.vn/category/konsaltingovye-uslugi-v-oaje-2/" >Консалтинговые услуги в ОАЭ</a>
+</li>
+	<li class="cat-item cat-item-2476"><a href="https://cydia.vn/category/novosti-kriptovaljut/" >Новости Криптовалют</a>
+</li>
+	<li class="cat-item cat-item-2443"><a href="https://cydia.vn/category/novosti-foreks/" >Новости Форекс</a>
+</li>
+	<li class="cat-item cat-item-2371"><a href="https://cydia.vn/category/posti/" >Пости</a>
+</li>
+	<li class="cat-item cat-item-2455"><a href="https://cydia.vn/category/teksta/" >Текста</a>
+</li>
+	<li class="cat-item cat-item-2375"><a href="https://cydia.vn/category/finteh/" >Финтех</a>
+</li>
+	<li class="cat-item cat-item-2384"><a href="https://cydia.vn/category/foreks-brokery/" >Форекс Брокеры</a>
+</li>
+		</ul>
+</aside><aside id="tag_cloud-4" class="widget widget_tag_cloud"><h3 class="widget-title">Tags</h3><div class="tagcloud"><a href="https://cydia.vn/tag/2017/" class="tag-cloud-link tag-link-650 tag-link-position-1" style="font-size: 15.259259259259pt;" aria-label="2017 (61 items)">2017</a>
+<a href="https://cydia.vn/tag/app/" class="tag-cloud-link tag-link-409 tag-link-position-2" style="font-size: 10.679012345679pt;" aria-label="app (17 items)">app</a>
+<a href="https://cydia.vn/tag/apple/" class="tag-cloud-link tag-link-426 tag-link-position-3" style="font-size: 20.617283950617pt;" aria-label="Apple (254 items)">Apple</a>
+<a href="https://cydia.vn/tag/apps/" class="tag-cloud-link tag-link-434 tag-link-position-4" style="font-size: 9.9876543209877pt;" aria-label="apps (14 items)">apps</a>
+<a href="https://cydia.vn/tag/appstore/" class="tag-cloud-link tag-link-413 tag-link-position-5" style="font-size: 9.7283950617284pt;" aria-label="Appstore (13 items)">Appstore</a>
+<a href="https://cydia.vn/tag/app-store/" class="tag-cloud-link tag-link-636 tag-link-position-6" style="font-size: 13.530864197531pt;" aria-label="App Store (38 items)">App Store</a>
+<a href="https://cydia.vn/tag/appstorevn/" class="tag-cloud-link tag-link-206 tag-link-position-7" style="font-size: 8.7777777777778pt;" aria-label="appstorevn (10 items)">appstorevn</a>
+<a href="https://cydia.vn/tag/appvn/" class="tag-cloud-link tag-link-408 tag-link-position-8" style="font-size: 10.41975308642pt;" aria-label="appvn (16 items)">appvn</a>
+<a href="https://cydia.vn/tag/best-cydia-tweak/" class="tag-cloud-link tag-link-235 tag-link-position-9" style="font-size: 10.41975308642pt;" aria-label="best cydia tweak (16 items)">best cydia tweak</a>
+<a href="https://cydia.vn/tag/cydia/" class="tag-cloud-link tag-link-182 tag-link-position-10" style="font-size: 11.888888888889pt;" aria-label="cydia (24 items)">cydia</a>
+<a href="https://cydia.vn/tag/cydia-ios-7/" class="tag-cloud-link tag-link-277 tag-link-position-11" style="font-size: 11.543209876543pt;" aria-label="Cydia iOS 7 (22 items)">Cydia iOS 7</a>
+<a href="https://cydia.vn/tag/cydia-tweak/" class="tag-cloud-link tag-link-248 tag-link-position-12" style="font-size: 9.1234567901235pt;" aria-label="cydia tweak (11 items)">cydia tweak</a>
+<a href="https://cydia.vn/tag/downgrade/" class="tag-cloud-link tag-link-380 tag-link-position-13" style="font-size: 9.7283950617284pt;" aria-label="downgrade (13 items)">downgrade</a>
+<a href="https://cydia.vn/tag/game/" class="tag-cloud-link tag-link-410 tag-link-position-14" style="font-size: 8pt;" aria-label="game (8 items)">game</a>
+<a href="https://cydia.vn/tag/game-mien-phi/" class="tag-cloud-link tag-link-738 tag-link-position-15" style="font-size: 12.148148148148pt;" aria-label="game miễn phí (26 items)">game miễn phí</a>
+<a href="https://cydia.vn/tag/huong-dan/" class="tag-cloud-link tag-link-417 tag-link-position-16" style="font-size: 18.888888888889pt;" aria-label="Hướng dẫn (160 items)">Hướng dẫn</a>
+<a href="https://cydia.vn/tag/huong-dan-jailbreak/" class="tag-cloud-link tag-link-269 tag-link-position-17" style="font-size: 10.41975308642pt;" aria-label="hướng dẫn jailbreak (16 items)">hướng dẫn jailbreak</a>
+<a href="https://cydia.vn/tag/ios/" class="tag-cloud-link tag-link-201 tag-link-position-18" style="font-size: 15.777777777778pt;" aria-label="ios (70 items)">ios</a>
+<a href="https://cydia.vn/tag/ios-7-tweak/" class="tag-cloud-link tag-link-490 tag-link-position-19" style="font-size: 11.716049382716pt;" aria-label="iOS 7 Tweaks (23 items)">iOS 7 Tweaks</a>
+<a href="https://cydia.vn/tag/ios9/" class="tag-cloud-link tag-link-433 tag-link-position-20" style="font-size: 9.3827160493827pt;" aria-label="ios9 (12 items)">ios9</a>
+<a href="https://cydia.vn/tag/ios-9/" class="tag-cloud-link tag-link-431 tag-link-position-21" style="font-size: 10.16049382716pt;" aria-label="ios 9 (15 items)">ios 9</a>
+<a href="https://cydia.vn/tag/ios-10/" class="tag-cloud-link tag-link-605 tag-link-position-22" style="font-size: 16.20987654321pt;" aria-label="iOS 10 (78 items)">iOS 10</a>
+<a href="https://cydia.vn/tag/ios-11/" class="tag-cloud-link tag-link-668 tag-link-position-23" style="font-size: 12.58024691358pt;" aria-label="iOS 11 (29 items)">iOS 11</a>
+<a href="https://cydia.vn/tag/ipad/" class="tag-cloud-link tag-link-388 tag-link-position-24" style="font-size: 14.395061728395pt;" aria-label="iPad (48 items)">iPad</a>
+<a href="https://cydia.vn/tag/iphone/" class="tag-cloud-link tag-link-387 tag-link-position-25" style="font-size: 19.234567901235pt;" aria-label="iPhone (176 items)">iPhone</a>
+<a href="https://cydia.vn/tag/iphone-6s/" class="tag-cloud-link tag-link-568 tag-link-position-26" style="font-size: 8pt;" aria-label="iPhone 6s (8 items)">iPhone 6s</a>
+<a href="https://cydia.vn/tag/iphone-7/" class="tag-cloud-link tag-link-558 tag-link-position-27" style="font-size: 13.098765432099pt;" aria-label="iPhone 7 (34 items)">iPhone 7</a>
+<a href="https://cydia.vn/tag/iphone-8/" class="tag-cloud-link tag-link-632 tag-link-position-28" style="font-size: 15.604938271605pt;" aria-label="iPhone 8 (67 items)">iPhone 8</a>
+<a href="https://cydia.vn/tag/iphone-lock/" class="tag-cloud-link tag-link-638 tag-link-position-29" style="font-size: 9.3827160493827pt;" aria-label="iPhone Lock (12 items)">iPhone Lock</a>
+<a href="https://cydia.vn/tag/jailbreak/" class="tag-cloud-link tag-link-250 tag-link-position-30" style="font-size: 15pt;" aria-label="jailbreak (57 items)">jailbreak</a>
+<a href="https://cydia.vn/tag/jailbreak-ios-9/" class="tag-cloud-link tag-link-427 tag-link-position-31" style="font-size: 9.3827160493827pt;" aria-label="jailbreak iOS 9 (12 items)">jailbreak iOS 9</a>
+<a href="https://cydia.vn/tag/jailbreak-ios-10/" class="tag-cloud-link tag-link-634 tag-link-position-32" style="font-size: 13.012345679012pt;" aria-label="jailbreak iOS 10 (33 items)">jailbreak iOS 10</a>
+<a href="https://cydia.vn/tag/news/" class="tag-cloud-link tag-link-500 tag-link-position-33" style="font-size: 22pt;" aria-label="news (372 items)">news</a>
+<a href="https://cydia.vn/tag/non-jailbreak/" class="tag-cloud-link tag-link-191 tag-link-position-34" style="font-size: 9.9876543209877pt;" aria-label="non-jailbreak (14 items)">non-jailbreak</a>
+<a href="https://cydia.vn/tag/pangu/" class="tag-cloud-link tag-link-370 tag-link-position-35" style="font-size: 8pt;" aria-label="Pangu (8 items)">Pangu</a>
+<a href="https://cydia.vn/tag/restore/" class="tag-cloud-link tag-link-199 tag-link-position-36" style="font-size: 8pt;" aria-label="restore (8 items)">restore</a>
+<a href="https://cydia.vn/tag/review/" class="tag-cloud-link tag-link-442 tag-link-position-37" style="font-size: 13.098765432099pt;" aria-label="review (34 items)">review</a>
+<a href="https://cydia.vn/tag/taig/" class="tag-cloud-link tag-link-353 tag-link-position-38" style="font-size: 8pt;" aria-label="TaiG (8 items)">TaiG</a>
+<a href="https://cydia.vn/tag/tin-tuc/" class="tag-cloud-link tag-link-733 tag-link-position-39" style="font-size: 11.197530864198pt;" aria-label="tin tức (20 items)">tin tức</a>
+<a href="https://cydia.vn/tag/tip/" class="tag-cloud-link tag-link-472 tag-link-position-40" style="font-size: 8.4320987654321pt;" aria-label="tip (9 items)">tip</a>
+<a href="https://cydia.vn/tag/tip-tricks/" class="tag-cloud-link tag-link-577 tag-link-position-41" style="font-size: 17.592592592593pt;" aria-label="tip &amp; Tricks (114 items)">tip &amp; Tricks</a>
+<a href="https://cydia.vn/tag/tips/" class="tag-cloud-link tag-link-397 tag-link-position-42" style="font-size: 13.79012345679pt;" aria-label="tips (41 items)">tips</a>
+<a href="https://cydia.vn/tag/tweak-2/" class="tag-cloud-link tag-link-181 tag-link-position-43" style="font-size: 13.358024691358pt;" aria-label="tweak (36 items)">tweak</a>
+<a href="https://cydia.vn/tag/update/" class="tag-cloud-link tag-link-200 tag-link-position-44" style="font-size: 14.481481481481pt;" aria-label="update (49 items)">update</a>
+<a href="https://cydia.vn/tag/ung-dung-mien-phi/" class="tag-cloud-link tag-link-737 tag-link-position-45" style="font-size: 12.148148148148pt;" aria-label="ứng dụng miễn phí (26 items)">ứng dụng miễn phí</a></div>
+</aside><aside id="meta-4" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="https://cydia.vn/wp-login.php">Log in</a></li>
+			<li><a href="https://cydia.vn/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://cydia.vn/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</aside>		</div>
+	</div><!--sidebars-->
+</aside>
+			</div><!-- .content -->
+</div><!-- #page -->
+<footer>
+			<div class="carousel">
+			<h3 class="frontTitle">
+				<div class="latest">
+					Tips &amp; Tricks				</div>
+			</h3>
+								<div class="excerpt">
+						<a href="https://cydia.vn/chia-se-nhung-cach-su-dung-tri-tue-nhan-tao-chatgpt-mien-phi/" title="Chia sẻ những cách sử dụng Trí tuệ nhân tạo (ChatGPT) miễn phí" rel="nofollow" id="footer-thumbnail">
+							<div>
+								<div class="hover"><i class="point-icon icon-zoom-in"></i></div>
+																	<div class="featured-thumbnail">
+										<img src="https://cydia.vn/wp-content/themes/point/images/footerthumb.png" class="attachment-featured wp-post-image" alt="Chia sẻ những cách sử dụng Trí tuệ nhân tạo (ChatGPT) miễn phí">
+									</div>
+															</div>
+							<p class="footer-title">
+								<span class="featured-title">Chia sẻ những cách sử dụng Trí tuệ nhân tạo (ChatGPT) miễn phí</span>
+							</p>
+						</a>
+					</div><!--.post excerpt-->                
+								<div class="excerpt">
+						<a href="https://cydia.vn/cach-kiem-tra-may-tinh-ca-nhan-co-dang-bi-theo-doi-khong-va-cach-xu-ly/" title="Cách kiểm tra máy tính cá nhân có đang bị theo dõi không và cách xử lý" rel="nofollow" id="footer-thumbnail">
+							<div>
+								<div class="hover"><i class="point-icon icon-zoom-in"></i></div>
+								 
+									<img width="140" height="130" src="https://cydia.vn/wp-content/uploads/2022/01/cach-kiem-tra-may-tinh-ca-nhan-co-dang-bi-theo-doi-khong-9-140x130.jpg" class="attachment-carousel size-carousel wp-post-image" alt="" title="" srcset="https://cydia.vn/wp-content/uploads/2022/01/cach-kiem-tra-may-tinh-ca-nhan-co-dang-bi-theo-doi-khong-9-140x130.jpg 140w, https://cydia.vn/wp-content/uploads/2022/01/cach-kiem-tra-may-tinh-ca-nhan-co-dang-bi-theo-doi-khong-9-60x57.jpg 60w" sizes="(max-width: 140px) 100vw, 140px" />															</div>
+							<p class="footer-title">
+								<span class="featured-title">Cách kiểm tra máy tính cá nhân có đang bị theo dõi không và cách xử lý</span>
+							</p>
+						</a>
+					</div><!--.post excerpt-->                
+								<div class="excerpt">
+						<a href="https://cydia.vn/mang-tranh-nghe-thuat-len-man-hinh-iphone-tren-ios-14/" title="Mang tranh nghệ thuật lên màn hình iPhone trên iOS 14" rel="nofollow" id="footer-thumbnail">
+							<div>
+								<div class="hover"><i class="point-icon icon-zoom-in"></i></div>
+								 
+									<img width="140" height="130" src="https://cydia.vn/wp-content/uploads/2020/11/5241093_cover_widget_tranh_nghe_thuat_tinhte-140x130.jpg" class="attachment-carousel size-carousel wp-post-image" alt="" title="" srcset="https://cydia.vn/wp-content/uploads/2020/11/5241093_cover_widget_tranh_nghe_thuat_tinhte-140x130.jpg 140w, https://cydia.vn/wp-content/uploads/2020/11/5241093_cover_widget_tranh_nghe_thuat_tinhte-60x57.jpg 60w" sizes="(max-width: 140px) 100vw, 140px" />															</div>
+							<p class="footer-title">
+								<span class="featured-title">Mang tranh nghệ thuật lên màn hình iPhone trên iOS 14</span>
+							</p>
+						</a>
+					</div><!--.post excerpt-->                
+								<div class="excerpt">
+						<a href="https://cydia.vn/upbeat-ung-dung-nghe-nhac-youtube-khong-can-mo-man-hinh-danh-cho-ca-android-va-ios/" title="Upbeat &#8211; ứng dụng nghe nhạc YouTube không cần mở màn hình dành cho cả Android và iOS" rel="nofollow" id="footer-thumbnail">
+							<div>
+								<div class="hover"><i class="point-icon icon-zoom-in"></i></div>
+								 
+									<img width="140" height="130" src="https://cydia.vn/wp-content/uploads/2020/10/Upbeat-for-youtube-TECHRUM-65372469f14447720-140x130.jpg" class="attachment-carousel size-carousel wp-post-image" alt="" title="" srcset="https://cydia.vn/wp-content/uploads/2020/10/Upbeat-for-youtube-TECHRUM-65372469f14447720-140x130.jpg 140w, https://cydia.vn/wp-content/uploads/2020/10/Upbeat-for-youtube-TECHRUM-65372469f14447720-60x57.jpg 60w" sizes="(max-width: 140px) 100vw, 140px" />															</div>
+							<p class="footer-title">
+								<span class="featured-title">Upbeat &#8211; ứng dụng nghe nhạc YouTube không cần mở màn hình dành cho cả Android và iOS</span>
+							</p>
+						</a>
+					</div><!--.post excerpt-->                
+								<div class="excerpt">
+						<a href="https://cydia.vn/huong-dan-jailbreak-bang-checkra1n-thong-qua-usb-boot-tren-windows/" title="Hướng dẫn jailbreak bằng Checkra1n thông qua USB Boot trên Windows" rel="nofollow" id="footer-thumbnail">
+							<div>
+								<div class="hover"><i class="point-icon icon-zoom-in"></i></div>
+								 
+									<img width="140" height="130" src="https://cydia.vn/wp-content/uploads/2020/08/EKPyMCWWoAcyzfZ-140x130.jpg" class="attachment-carousel size-carousel wp-post-image" alt="" title="" srcset="https://cydia.vn/wp-content/uploads/2020/08/EKPyMCWWoAcyzfZ-140x130.jpg 140w, https://cydia.vn/wp-content/uploads/2020/08/EKPyMCWWoAcyzfZ-60x57.jpg 60w" sizes="(max-width: 140px) 100vw, 140px" />															</div>
+							<p class="footer-title">
+								<span class="featured-title">Hướng dẫn jailbreak bằng Checkra1n thông qua USB Boot trên Windows</span>
+							</p>
+						</a>
+					</div><!--.post excerpt-->                
+								<div class="excerpt">
+						<a href="https://cydia.vn/huong-dan-active-iphone-lock-bi-loi-khong-kich-hoat-tren-sim-ghep-thanh/" title="Hướng dẫn active iPhone Lock bị lỗi không thể thể kích hoạt trên SIM ghép &#8220;thần thánh&#8221;" rel="nofollow" id="footer-thumbnail">
+							<div>
+								<div class="hover"><i class="point-icon icon-zoom-in"></i></div>
+								 
+									<img width="140" height="130" src="https://cydia.vn/wp-content/uploads/2017/10/AkX8R-140x130.jpg" class="attachment-carousel size-carousel wp-post-image" alt="" title="" srcset="https://cydia.vn/wp-content/uploads/2017/10/AkX8R-140x130.jpg 140w, https://cydia.vn/wp-content/uploads/2017/10/AkX8R-60x57.jpg 60w" sizes="(max-width: 140px) 100vw, 140px" />															</div>
+							<p class="footer-title">
+								<span class="featured-title">Hướng dẫn active iPhone Lock bị lỗi không thể thể kích hoạt trên SIM ghép &#8220;thần thánh&#8221;</span>
+							</p>
+						</a>
+					</div><!--.post excerpt-->                
+			 
+		</div>
+	</footer><!--footer-->
+<!--start copyrights-->
+<div class="copyrights">
+	<div class="row" id="copyright-note">
+				<div class="copyright-left-text">Copyright &copy; 2026 <a href="https://cydia.vn" title="Tin tức, kinh nghiệm, thủ thuật iOS" rel="nofollow">Cydia.vn</a>.</div>
+		<div class="copyright-text">
+					</div>
+		<div class="footer-navigation">
+							<ul id="menu-home-1" class="menu"><li id="menu-item-5742" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5742"><a title="Hướng dẫn jailbreak iOS 9.2 &#8211; 9.3.3 &#8211; 10.2">Jailbreak</a>
+<ul class="sub-menu">
+	<li id="menu-item-7684" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-7684"><a href="https://cydia.vn/huong-dan-jailbreak-ios-10-2-voi-yalu102/">Hướng dẫn jailbreak iOS 10.2 với Yalu102</a></li>
+	<li id="menu-item-7685" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-7685"><a href="https://cydia.vn/jailbreak-apple-tv-4-voi-libertv/">Hướng dẫn jailbreak Apple TV 4 với liberTV</a></li>
+	<li id="menu-item-7686" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-7686"><a href="https://cydia.vn/huong-dan-jailbreak-ios-9-x-tren-cac-thiet-bi-ios-32bit/">Hướng dẫn jailbreak iOS 9.x trên các thiết bị iOS 32bit</a></li>
+	<li id="menu-item-5754" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5754"><a href="https://cydia.vn/huong-da%cc%83n-jailbreak-ios-9-3-3-bang-cong-cu%cc%a3-pangu/">Hướng dẫn jailbreak iOS 9.3.3 bằng công cụ Pangu</a></li>
+	<li id="menu-item-5741" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5741"><a href="https://cydia.vn/huong-dan-jailbreak-ios-9-2-9-3-3-bang-cong-cu-25pp-china-version-chip-64-bit/">Hướng dẫn Jailbreak iOS 9.2-9.3.3 bằng công cụ 25PP (China version – Chip 64-bit only)</a></li>
+</ul>
+</li>
+<li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-30"><a>Hướng Dẫn</a>
+<ul class="sub-menu">
+	<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a title="Hướng dẫn Add source Cydia.vn" href="https://cydia.vn/cach-add-source-cydia-vn/">Cách Add Source Cydia.vn</a></li>
+	<li id="menu-item-167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167"><a title="Hướng dẫn cài đặt và gỡ bỏ ứng dụng từ Cydia" href="https://cydia.vn/huong-dan-cai-dat-va-go-bo-ung-dung-tu-cydia/">Hướng dẫn cài đặt, gỡ bỏ ứng dụng từ Cydia</a></li>
+	<li id="menu-item-652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-652"><a href="https://cydia.vn/huong-dan-tao-tai-khoan-itunes-mien-phi-truc-tiep-tren-iphone/">Hướng dẫn tạo tài khoản iTunes miễn phí trực tiếp trên iPhone!</a></li>
+</ul>
+</li>
+<li id="menu-item-1117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1117"><a href="https://cydia.vn/ios-downloads/">Downloads</a></li>
+<li id="menu-item-4010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4010"><a href="https://cydia.vn/apple-signing-firmware-status/">TSS Status</a></li>
+</ul>					</div>
+		<div class="top"><a href="#top" class="toplink"><i class="point-icon icon-up-dir"></i></a></div>
+	</div>
+</div>
+<!--end copyrights-->
+<script type='text/javascript' src='https://cydia.vn/wp-content/themes/point/js/customscripts.js?ver=20120212'></script>
+<script type='text/javascript' src='https://cydia.vn/wp-includes/js/wp-embed.min.js?ver=4.9.7'></script>
+</div><!-- main-container -->
+
+</body>
+</html>
